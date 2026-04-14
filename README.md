@@ -15,22 +15,22 @@ This repository contains all the other repositories of my preparation for partic
 ## Foundations:
 
 * [Recipes](https://github.com/Silas-N-Schlax/rm-prework-odin-recipes)
-* [Landing Page](https://github.com/Silas-N-Schlax/rm-prework-odin-landing-page.git)
-* [Rock Paper Scissors](https://github.com/Silas-N-Schlax/rm-prework-odin-rock-paper-scissors.git)
-* [Etch-a-Sketch](https://github.com/Silas-N-Schlax/rm-prework-odin-etch-a-sketch.git)
-* [Calculator](https://github.com/Silas-N-Schlax/rm-prework-odin-calculator.git)
+* [Landing Page](https://github.com/Silas-N-Schlax/rm-prework-odin-landing-page)
+* [Rock Paper Scissors](https://github.com/Silas-N-Schlax/rm-prework-odin-rock-paper-scissors)
+* [Etch-a-Sketch](https://github.com/Silas-N-Schlax/rm-prework-odin-etch-a-sketch)
+* [Calculator](https://github.com/Silas-N-Schlax/rm-prework-odin-calculator)
 
 ## Ruby:
-* [Caesar Cipher](https://github.com/Silas-N-Schlax/rm-prework-odin-caesar-cipher.git)
-* [Substrings](https://github.com/Silas-N-Schlax/rm-prework-odin-substrings.git)
-* [Stock Picker](https://github.com/Silas-N-Schlax/rm-prework-odin-stock-picker.git)
-* [Bubble Sort](https://github.com/Silas-N-Schlax/rm-prework-odin-bubble-sort.git)
+* [Caesar Cipher](https://github.com/Silas-N-Schlax/rm-prework-odin-caesar-cipher)
+* [Substrings](https://github.com/Silas-N-Schlax/rm-prework-odin-substrings)
+* [Stock Picker](https://github.com/Silas-N-Schlax/rm-prework-odin-stock-picker)
+* [Bubble Sort](https://github.com/Silas-N-Schlax/rm-prework-odin-bubble-sort)
 
 ## Exercises
 
-* [CSS Exercises](https://github.com/Silas-N-Schlax/rm-prework-odin-css-exercises.git)
-* [JavaScript Exercises](https://github.com/Silas-N-Schlax/rm-prework-odin-javascript-exercises.git)
-* [Ruby Exercises](https://github.com/Silas-N-Schlax/rm-prework-ruby-exercises.git) (Not Finished)
+* [CSS Exercises](https://github.com/Silas-N-Schlax/rm-prework-odin-css-exercises)
+* [JavaScript Exercises](https://github.com/Silas-N-Schlax/rm-prework-odin-javascript-exercises)
+* [Ruby Exercises](https://github.com/Silas-N-Schlax/rm-prework-ruby-exercises) (Not Finished)
 
 
 ---
