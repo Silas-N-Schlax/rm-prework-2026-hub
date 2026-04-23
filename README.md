@@ -25,13 +25,22 @@ This repository contains all the other repositories of my preparation for partic
 * [Substrings](https://github.com/Silas-N-Schlax/rm-prework-odin-substrings)
 * [Stock Picker](https://github.com/Silas-N-Schlax/rm-prework-odin-stock-picker)
 * [Bubble Sort](https://github.com/Silas-N-Schlax/rm-prework-odin-bubble-sort)
-
+* [Tic-Tac-Toe](https://github.com/Silas-N-Schlax/rm-prework-odin-tic-tac-toe)
+* [Mastermind](https://github.com/Silas-N-Schlax/rm-prework-odin-mastermind)
+* [Hangman](https://github.com/Silas-N-Schlax/rm-prework-odin-hangman)
+* [Connect 4](https://github.com/Silas-N-Schlax/rm-prework-odin-connect-4)
+* [Recursion](https://github.com/Silas-N-Schlax/rm-prework-odin-recursion)
+* [Linked List](https://github.com/Silas-N-Schlax/rm-prework-odin-linked-list)
+* [Hash Map](https://github.com/Silas-N-Schlax/rm-prework-odin-hash-map)
+* [Binary Search Trees](https://github.com/Silas-N-Schlax/rm-prework-odin-binary-search-trees)
+* [Knights Travails](https://github.com/Silas-N-Schlax/rm-prework-odin-knights-travails)
 ## Exercises
 
 * [CSS Exercises](https://github.com/Silas-N-Schlax/rm-prework-odin-css-exercises)
 * [JavaScript Exercises](https://github.com/Silas-N-Schlax/rm-prework-odin-javascript-exercises)
-* [Ruby Exercises](https://github.com/Silas-N-Schlax/rm-prework-ruby-exercises) (Not Finished)
-
+* [Ruby Exercises](https://github.com/Silas-N-Schlax/rm-prework-ruby-exercises) (Finished)
+* [Custom Enumerables Exercises](https://github.com/Silas-N-Schlax/rm-prework-odin-custom-enumerable-project)
+* [Ruby Testing Exercises](https://github.com/Silas-N-Schlax/rm-prework-odin-ruby-testing)
 
 ---
 
