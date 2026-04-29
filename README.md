@@ -18,7 +18,7 @@ This repository contains all the other repositories of my preparation for partic
 * [Landing Page](https://github.com/Silas-N-Schlax/rm-prework-odin-landing-page)
 * [Rock Paper Scissors](https://github.com/Silas-N-Schlax/rm-prework-odin-rock-paper-scissors)
 * [Etch-a-Sketch](https://github.com/Silas-N-Schlax/rm-prework-odin-etch-a-sketch)
-* [Calculator](https://github.com/Silas-N-Schlax/rm-prework-odin-calculator)
+* [Calculator](https://github.com/Silas-N-Schlax/rm-prework-odin-calculator) (Final Foundations Project)
 
 ## Ruby:
 * [Caesar Cipher](https://github.com/Silas-N-Schlax/rm-prework-odin-caesar-cipher)
@@ -34,13 +34,19 @@ This repository contains all the other repositories of my preparation for partic
 * [Hash Map](https://github.com/Silas-N-Schlax/rm-prework-odin-hash-map)
 * [Binary Search Trees](https://github.com/Silas-N-Schlax/rm-prework-odin-binary-search-trees)
 * [Knights Travails](https://github.com/Silas-N-Schlax/rm-prework-odin-knights-travails)
+* [Chess](https://github.com/Silas-N-Schlax/rm-prework-odin-chess) (Final Ruby Project)
+
 ## Exercises
 
 * [CSS Exercises](https://github.com/Silas-N-Schlax/rm-prework-odin-css-exercises)
 * [JavaScript Exercises](https://github.com/Silas-N-Schlax/rm-prework-odin-javascript-exercises)
-* [Ruby Exercises](https://github.com/Silas-N-Schlax/rm-prework-ruby-exercises) (Finished)
+* [Ruby Exercises](https://github.com/Silas-N-Schlax/rm-prework-ruby-exercises)
 * [Custom Enumerables Exercises](https://github.com/Silas-N-Schlax/rm-prework-odin-custom-enumerable-project)
 * [Ruby Testing Exercises](https://github.com/Silas-N-Schlax/rm-prework-odin-ruby-testing)
+
+## Intermediate HTML and CSS
+
+* *Coming Soon...*
 
 ---
 
