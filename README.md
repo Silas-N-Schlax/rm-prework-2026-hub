@@ -38,7 +38,7 @@ This repository contains all the other repositories of my preparation for partic
 
 ## Exercises
 
-* [CSS Exercises](https://github.com/Silas-N-Schlax/rm-prework-odin-css-exercises)
+* [CSS Exercises](https://github.com/Silas-N-Schlax/rm-prework-odin-css-exercises) **(Completed Through Intermediate HTML & CSS)**
 * [JavaScript Exercises](https://github.com/Silas-N-Schlax/rm-prework-odin-javascript-exercises)
 * [Ruby Exercises](https://github.com/Silas-N-Schlax/rm-prework-ruby-exercises)
 * [Custom Enumerables Exercises](https://github.com/Silas-N-Schlax/rm-prework-odin-custom-enumerable-project)
@@ -46,7 +46,8 @@ This repository contains all the other repositories of my preparation for partic
 
 ## Intermediate HTML and CSS
 
-* *Coming Soon...*
+* [Sign-up Form](https://github.com/Silas-N-Schlax/rm-prework-odin-sign-up-form)
+* [Admin Dashboard](https://github.com/Silas-N-Schlax/rm-prework-odin-admin-dashboard) (Final Int H&C Project)
 
 ---
 
